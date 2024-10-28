@@ -12,4 +12,4 @@ const ReserveSchema = new Schema({
   }
 });
 
-export default new model('Reserve', ReserveSchema);
+export default model('Reserve', ReserveSchema);
